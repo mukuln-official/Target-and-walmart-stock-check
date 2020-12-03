@@ -1,0 +1,6 @@
+pandas==1.1.4
+Flask==1.1.2
+discord==1.0.1
+discord.py==1.5.0
+bs4==0.0.1
+requests==2.25.0
